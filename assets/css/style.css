@@ -11,3 +11,35 @@ body{
     background-repeat: no-repeat;
     padding-bottom: 100px;
 }
+
+h1{
+    text-align: center;
+    color: #FFF;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 30px; /* 93.75% */
+    letter-spacing: -0.286px;
+    padding-top: 32px;
+    padding-bottom: 31px;
+}
+
+.background .input-group{
+    width: 555px;
+    height: 58px;
+    border-radius: 15px;
+    background: #FFF;
+    box-shadow: 0px 50px 50px -25px rgba(0, 0, 0, 0.10);
+    margin: 0 auto;
+}
+
+.background .input-group span{
+    width: 58px;
+    height: 58px;
+    background-color: black;
+    border: 1px solid black;
+}
+
+.background .input-group span img{
+    margin: auto;
+}
