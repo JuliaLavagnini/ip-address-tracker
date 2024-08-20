@@ -89,3 +89,7 @@ p{
     letter-spacing: -0.232px;
 
 }
+
+#map { 
+    height: 100vh; 
+}
